@@ -11,6 +11,7 @@ From the functionality:
 
 If you have any questions, you can message me on Telegram - @vlprku
 
+```
 # Insert a function for creating the checkerboard and pawn designations
 def p(fig) :
     return '  '+fig+'  '  
@@ -123,3 +124,4 @@ while True:
     # change moves
     act = WHT if act==BLK else BLK 
     # the act becomes white if it was black before, and if it was white it becomes black
+    ```
